@@ -1,0 +1,2 @@
+# bigMartSales
+Intro lineair regression
